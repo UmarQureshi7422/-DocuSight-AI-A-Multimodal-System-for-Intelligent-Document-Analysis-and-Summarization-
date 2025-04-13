@@ -1,0 +1,2 @@
+# -DocuSight-AI-A-Multimodal-System-for-Intelligent-Document-Analysis-and-Summarization-
+DocuSight AI is an intelligent document processing application that leverages the artificial intelligence to streamline and enhance document analysis. With this app, users can upload scanned documents (in PDF or image format), and the system will automatically process and extract useful information, offering a variety of insightful features.
