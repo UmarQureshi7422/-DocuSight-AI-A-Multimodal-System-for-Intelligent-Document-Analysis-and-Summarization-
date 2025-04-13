@@ -1,0 +1,11 @@
+streamlit
+pytesseract
+pillow
+opencv-python
+transformers
+torch
+spacy
+pdf2image
+python-docx
+matplotlib
+easyocr
