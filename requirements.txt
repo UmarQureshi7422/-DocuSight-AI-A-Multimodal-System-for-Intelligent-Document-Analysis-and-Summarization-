@@ -5,6 +5,7 @@ opencv-python
 transformers
 torch
 spacy
+spaCy
 pdf2image
 python-docx
 matplotlib
