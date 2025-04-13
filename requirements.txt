@@ -1,12 +1,9 @@
-streamlit
-pytesseract
-pillow
-opencv-python
-transformers
-torch
+# requirements.txt
 spacy
-spaCy
+streamlit
 pdf2image
-python-docx
-matplotlib
-easyocr
+pillow
+pytesseract
+
+# Add this at the end
+./setup.sh
